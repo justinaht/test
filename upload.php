@@ -48,7 +48,7 @@ function createThumb($img_file, $ori_path, $thumb_path, $img_type) {
             $tmp_height++;
         }
     }
-	$test = 'abc';
+	$test = 'abcyifyvyv';
 	
 	
 	$abc = "abcabc";
