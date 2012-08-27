@@ -48,8 +48,8 @@ function createThumb($img_file, $ori_path, $thumb_path, $img_type) {
             $tmp_height++;
         }
     }
-	$test = 'abcyifyvyv';
-	
+	$test = 'fhafaiof';
+	$test2 = "ahfafafjajfk";
 	
 	$abc = "abcabc";
     $img_new = imagecreatetruecolor($tmp_width, $tmp_height);
