@@ -49,6 +49,9 @@ function createThumb($img_file, $ori_path, $thumb_path, $img_type) {
         }
     }
 	$test = 'abc';
+	
+	
+	$abc = "abcabc";
     $img_new = imagecreatetruecolor($tmp_width, $tmp_height);
     imagecopyresampled($img_new, $img_src, 0, 0, 0, 0,
             $tmp_width, $tmp_height, $img_width, $img_height);
