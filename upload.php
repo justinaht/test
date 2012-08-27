@@ -28,7 +28,7 @@ function createThumb($img_file, $ori_path, $thumb_path, $img_type) {
     $img_height = imagesy($img_src);
 
     $test = "abc";
-    
+    $abc = "yaaycgasg";
     $square_size = 100;
 
     // check width, height, or square
