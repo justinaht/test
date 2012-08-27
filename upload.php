@@ -49,6 +49,8 @@ function createThumb($img_file, $ori_path, $thumb_path, $img_type) {
         }
     }
 	$test = 'abcyifyvyv';
+	$test = 'fhafaiof';
+	$test2 = "ahfafafjajfk";
 	$xyz = "afoafuwba";
 	
 	$abc = "abcabc";
