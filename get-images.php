@@ -10,6 +10,7 @@ while($name = $d->read()){
 			'lastmod'=>$lastmod, 'url'=>$dir.$name);
 }
 echo "xyz";
+echo "abc";
 $d->close();
 $o = array('images'=>$images);
 echo json_encode($o);
