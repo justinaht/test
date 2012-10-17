@@ -9,6 +9,7 @@ while($name = $d->read()){
     $images[] = array('name'=>$name, 'size'=>$size,
 			'lastmod'=>$lastmod, 'url'=>$dir.$name);
 }
+echo "abc";
 $d->close();
 $o = array('images'=>$images);
 echo json_encode($o);
